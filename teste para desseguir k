@@ -1,0 +1,8 @@
+pkg upgrade -y
+pkg install git
+pkg install nodejs
+git clone https://github.com/masokky/instagram-tools.git
+cd instagram-tools
+node index.js
+cd instagram-tools
+node index.js
